@@ -1,0 +1,5 @@
+User-Agent: *
+Allow: /
+
+Host: https://zhaoxiaolu.me
+Sitemap: https://zhaoxiaolu.me/sitemap.xml
